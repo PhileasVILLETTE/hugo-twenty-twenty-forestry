@@ -1,5 +1,5 @@
 ---
-title: "The Life I Deserve"
+title: "#3 : Ma collection de vieilles consolles"
 date: 2020-03-14T15:40:24+06:00
 image : "images/2020-three-quarters-2.png"
 # author
@@ -13,6 +13,55 @@ description: "This is meta description"
 draft: false
 ---
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+Cette fois, je ne vais pas parler de mes études ou de mes premiers sites internet, mais de ma collection (assez importante) d'anciennes consolles de jeux vidéos.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+Vus que j'en possède un nombre important (une vingtaine environ), je vais les énumérer par marque et par anciennetées :
+
+- Atari :
+    - Atari 2600 "Dark Vador"
+    - Atari Flashback 6
+
+- Nintendo :
+    - NES
+    - SuperNES
+    - Nintendo 64
+    - Gamecube
+    - GameBoy
+    - GameBoy Advance SP
+    - Nintendo DS "tank"
+    - Nintendo 2DS "Pokémon Lune"
+
+- Sega :
+    - MegaDrive 2
+    - Dreamcast
+
+- Sony :
+    - PlayStation
+    - PlayStation 2 slim
+    - une autre PlayStation 2 slim (pas la meme version)
+
+- Microsoft :
+    - XBox
+    - XBox 360
+
+- Autres fabricants :
+    - PDC 40
+    - V-Smile (V-Tech)
+    - un pokédex (parmis les nombreux modèles existant)
+    - ThinkPad 360PE (IBM modèle 2620)
+
+Il y a aussi d'autres machines qui ne m'appartiennet pas mais dont je suis le seul à "m'occuper" :
+
+- Apple :
+    - Apple IIe
+    - un autre Apple IIe
+    - Macintosh SE
+
+- Autres :
+    - Nintendo Game & Watch Donky Kong
+    - une simili Game & Watch
+    - encore une autre
+    - une troisème
+    - une console de type "Pong"
+
+Voilà, c'est à peu près tout ce que j'ai comme vieilles machines informatique chez moi.
